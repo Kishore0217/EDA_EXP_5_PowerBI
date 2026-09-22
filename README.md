@@ -1,3 +1,5 @@
+```
+
 **Lab Experiment 5: Time Series Analysis for Sales Data using Power BI**
 
 **Aim**
@@ -169,3 +171,5 @@ Finally, identify at least three meaningful business insights from the analysis.
 
 **Result**
 Thus, the sales data was successfully analyzed using time-series techniques in Power BI. Monthly trends, sales changes, growth rates, moving averages, and year-over-year performance were calculated and visualized to create an interactive Time Series Sales Analysis Report.
+
+```
